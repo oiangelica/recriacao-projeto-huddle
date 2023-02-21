@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Recriação do projeto huddle
 <img src="src/image/readme/animacao-readme.gif" alt="gir do projeto">
 <p> Depois de meses afastada dos códigos por motivos de saúde finalmente pude voltar a praticar, resolvi testar meus conhecimentos recriando um projeto que eu já havia feito e postado aqui, na primeira vez que eu fiz utilizei o grid com flex, dessa vez utilizei apenas flex.</p>
