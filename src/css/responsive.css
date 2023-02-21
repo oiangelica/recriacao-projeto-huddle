@@ -46,7 +46,7 @@
     }
 }
 
-@media(max-width:800px){
+@media(max-width:1024px){
     body{
         background-image: url(../image/bg-mobile.png);
         background-repeat: no-repeat;
